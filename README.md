@@ -22,13 +22,15 @@ Download [English]() or [persian]() version.
 ## talk's slides
 # Contact
 ## e-mail:
-r.hoseini.nave@Gmail.com
-
-
-
-[useful links](https://github.com/rhoseininaveh/Rouholah-Hoseini-Naveh/blob/main/usefullinks)
-,
+r.hoseini.nave@Gmail.com,
 r.hoseini@math.uk.ac.ir
 
 ## WhatsApp & Telegram:
 +4366565956490
+
+#
+#
+#
+## [useful links](https://github.com/rhoseininaveh/Rouholah-Hoseini-Naveh/blob/main/usefullinks)
+### [useful links](https://github.com/rhoseininaveh/Rouholah-Hoseini-Naveh/blob/main/usefullinks)
+
