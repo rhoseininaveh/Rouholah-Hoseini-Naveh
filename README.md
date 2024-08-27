@@ -23,6 +23,6 @@ Download [English]() or [persian]() version.
 #### r.hoseini@math.uk.ac.ir
 ### WhatsApp & Telegram:
 #### +4366565956490
-#  
-### [useful links](usefullinks.md)
-### [Photos](images.md)
+# Private
+#### [useful links](usefullinks.md)
+#### [Photos](images.md)
