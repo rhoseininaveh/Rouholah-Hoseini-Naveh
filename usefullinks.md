@@ -3,7 +3,7 @@
 #### [Alessandro Andretta](https://www.dipmatematica.unito.it/do/docenti.pl/Alias?alessandro.andretta#tab-profilo)
 #### [Andrew Marks](https://math.berkeley.edu/~marks/)
 #### [Asaf Karagila](https://karagila.org/)
-#### []()
+#### [Joan Bagaria](https://www.icrea.cat/Web/ScientificStaff/joan--bagaria-i-pigrau-119)
 #### []()
 #### []()
 #### []()
