@@ -8,7 +8,7 @@
 #### [Chris Lambie-Hanson](https://users.math.cas.cz/~lambiehanson/)
 #### [David Aspero](https://archive.uea.ac.uk/~bfe12ncu/)
 #### [Dima Sinapova](https://sites.math.rutgers.edu/~ds2005/)
-#### [Raphael Carroy](https://www.dipmatematica.unito.it/do/docenti.pl/Show?_id=rcarroy#tab-profilo)
+#### [Gianluca Paolini](https://sites.google.com/view/gianlucapaolini/)
 #### [Filippo Calderoni](https://sites.math.rutgers.edu/~fc327/)
 #### []()
 #### []()
