@@ -7,7 +7,7 @@
 #### [Charles Morgan](https://www.ucl.ac.uk/~ucahcjm/)
 #### [Chris Lambie-Hanson](https://users.math.cas.cz/~lambiehanson/)
 #### [David Aspero](https://archive.uea.ac.uk/~bfe12ncu/)
-#### []()
+#### [Dima Sinapova](https://sites.math.rutgers.edu/~ds2005/)
 #### []()
 #### []()
 #### []()
