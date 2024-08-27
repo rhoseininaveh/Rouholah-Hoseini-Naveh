@@ -1,4 +1,4 @@
-Tahereh & Surena
+Surena & Tahereh
 ![Tahereh Surena](2.jpg)
 
 Tahereh & Surena
