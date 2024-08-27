@@ -14,7 +14,7 @@ Download [English]() or [persian]() version.
 ### PhD Thesis(in persian)
 #### [Forcing with elementary substructures](PhD Thesis.pdf) (2024)
 ### Papers
-#### (1) [Comparison of Takuti-Titan and Atanasov Intuitive Fuzzy Regions (in Persian)](), with [E. Eslami](https://pmath.uk.ac.ir/~esfandiar.eslami), in [Iranian Fuzzy Systems Association, 3(2): 89-106 (2020)](https://jfsa.fuzzy.ir/article_129695.html)
+#### (1) [Comparison of Takuti-Titani and Atanasov Intuitionistic Fuzzy (in Persian)](JFSA_Volume 3_Issue 2_Pages 89-106.pdf), with [E. Eslami](https://pmath.uk.ac.ir/~esfandiar.eslami), in [Iranian Fuzzy Systems Association, 3(2): 89-106 (2020)](https://jfsa.fuzzy.ir/article_129695.html)
 #### (2) [Adding highly generic subsets of](https://arxiv.org/pdf/2301.09435) $\omega_2$, with [M. Golshani](https://math.ipm.ac.ir/~golshani/) and [E. Eslami](https://pmath.uk.ac.ir/~esfandiar.eslami), in [Math. Log. Quart., 70(1): 126-133 (2024)](https://onlinelibrary.wiley.com/doi/10.1002/malq.202300007).
 #### (3) [Adding Abraham clubs and $\alpha$-properness](Abrahamclubs.pdf), with [M. Golshani](https://math.ipm.ac.ir/~golshani/), submited (2024).
 ### talk slides
