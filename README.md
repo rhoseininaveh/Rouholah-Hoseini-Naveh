@@ -1,5 +1,5 @@
 # Hi, Welcome to my website
-![Rouholah Hoseini Naveh](20221030_114804.jpg) <img src="20221030_114804.jpg" width="48">
+<img src="20221030_114804.jpg" width="480">
 
 #### I’m interested in [Mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic).
 #### I’m currently learning [Set theory](https://en.wikipedia.org/wiki/Set_theory), specifically [Forcing](https://en.wikipedia.org/wiki/Forcing_(mathematics)) and Forcing with side conditions.
