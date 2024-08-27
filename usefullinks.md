@@ -2,7 +2,7 @@
 #### [Arnold William Miller](https://people.math.wisc.edu/~awmille1/res/index.html)
 #### [Alessandro Andretta](https://www.dipmatematica.unito.it/do/docenti.pl/Alias?alessandro.andretta#tab-profilo)
 #### [Andrew Marks](https://math.berkeley.edu/~marks/)
-#### []()
+#### [Asaf Karagila](https://karagila.org/)
 #### []()
 #### []()
 #### []()
