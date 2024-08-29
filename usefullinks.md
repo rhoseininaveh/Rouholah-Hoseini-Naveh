@@ -42,7 +42,7 @@
 #### [Uri Abraham](https://www.cs.bgu.ac.il/~abraham/)
 #### [Vera Fischer](https://www.logic.univie.ac.at/~vfischer/)
 #### [yair hayut](https://mathematics.huji.ac.il/people/yair-hayut-0)
-#### []()
+#### [Zoltan Vidnyanszky](https://vidnyanz.elte.hu/)
 #### []()
 #### []()
 #### []()
