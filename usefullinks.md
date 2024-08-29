@@ -44,7 +44,7 @@
 #### [yair hayut](https://mathematics.huji.ac.il/people/yair-hayut-0)
 #### [Zoltan Vidnyanszky](https://vidnyanz.elte.hu/)
 #### [Ronald B. Jensen](https://www.mathematik.hu-berlin.de/~raesch/org/jensen.html)
-#### []()
+#### [Obrad Kasum](https://obradkasum.github.io/)
 #### []()
 #### []()
 #### []()
