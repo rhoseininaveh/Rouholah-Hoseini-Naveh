@@ -33,7 +33,7 @@
 #### [Piotr Koszmider](https://www.impan.pl/~koszmider/home-can.html)
 #### [Rahman Mohammadpour](https://sites.google.com/site/rahmanmohammadpour/)
 #### [Ralf Schindler](https://ivv5hpp.uni-muenster.de/u/rds/)
-#### [Ronald B Jensen](http://www-irm.mathematik.hu-berlin.de/~raesch/org/jensen.html)
+#### [Ronald B Jensen](https://web.archive.org/web/20240304141210/https://www.mathematik.hu-berlin.de/~raesch/org/jensen.html)
 #### [Sandra Müller](https://dmg.tuwien.ac.at/sandramueller/)
 #### [Shelah](https://shelah.logic.at/)
 #### [Sy David Friedman](https://www.logic.univie.ac.at/~dsyfriedman/)
