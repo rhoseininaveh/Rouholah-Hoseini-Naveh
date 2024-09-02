@@ -11,7 +11,7 @@
 #### [Gianluca Paolini](https://sites.google.com/view/gianlucapaolini/)
 #### [Filippo Calderoni](https://sites.math.rutgers.edu/~fc327/)
 #### [Giorgio Venturi](https://sites.google.com/view/giorgio-venturi/home)
-#### [Grigor Sargsyan](https://grigorsarg.github.io/people/)
+#### [Grigor Sargsyan](https://grigorsarg.github.io)
 #### [Heike Mildenberger](https://home.mathematik.uni-freiburg.de/mildenberger/)
 #### [Itay Neeman](https://www.math.ucla.edu/~ineeman/)
 #### [Jakob Kellner](https://www.dmg.tuwien.ac.at/kellner/)
