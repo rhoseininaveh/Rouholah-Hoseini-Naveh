@@ -15,8 +15,8 @@ Download [English]() or [Farsi]() version.
 #### [Forcing with elementary substructures](PhD Thesis.pdf) (2024)
 ### Papers
 #### (1) [Comparison of Takeuti-Titani and Atanassov Intuitionistic Fuzzy](JFSA_Volume 3_Issue 2_Pages 89-106.pdf), (in Farsi), with [E. Eslami](https://pmath.uk.ac.ir/~esfandiar.eslami), in [Fuzzy Systems and Applications, 3(2): 89-106 (2020)](https://jfsa.fuzzy.ir/article_129695.html)
-#### (2) [Adding highly generic subsets of](https://arxiv.org/pdf/2301.09435) $\omega_2$, with [M. Golshani](https://math.ipm.ac.ir/~golshani/) and [E. Eslami](https://pmath.uk.ac.ir/~esfandiar.eslami), in [Math. Log. Quart., 70(1): 126-133 (2024)](https://onlinelibrary.wiley.com/doi/10.1002/malq.202300007).
-#### (3) [Adding Abraham clubs and $\alpha$-properness](Abrahamclubs.pdf), with [M. Golshani](https://math.ipm.ac.ir/~golshani/), submited (2024).
+#### (2) [Adding highly generic subsets of $\omega_2$](https://arxiv.org/abs/2301.09435), with [M. Golshani](https://math.ipm.ac.ir/~golshani/) and [E. Eslami](https://pmath.uk.ac.ir/~esfandiar.eslami), in [Math. Log. Quart., 70(1): 126-133 (2024)](https://onlinelibrary.wiley.com/doi/10.1002/malq.202300007).
+#### (3) [Adding Abraham clubs and $\alpha$-properness](https://arxiv.org/abs/2409.09697), with [M. Golshani](https://math.ipm.ac.ir/~golshani/), submited (2024).
 ### talk slides
 # Contact
 ### e-mail:
